@@ -27,7 +27,7 @@
 
 I am elsewhere on the web:
 
-- https://git.sr.ht/japanoise
+- https://git.sr.ht/~japanoise
 - https://wiki.waifu.haus/
 
 My name comes from the [Japanese Harsh Noise "Music" Scene](https://en.wikipedia.org/wiki/Japanoise); I am not Japanese. If that sounds interesting to you, check out (headphone warning):
