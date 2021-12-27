@@ -9,7 +9,7 @@
   * [My personal configurations](https://github.com/japanoise/neo-dotfiles)
   * Ubuntu
   * msys2
-- Work status: recently employed as a software developer, currently looking for work
+- Work status: employed as a software developer
 - Contact me if:
   * You are interested in speaking to me about an employment opportunity
   * You are interested in helping me maintain one of my repositories (especially Gomacs)
