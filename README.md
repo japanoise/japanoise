@@ -2,13 +2,15 @@
 
 - Special interest: text editors
 - Pronouns: she/her
+- Here for: hacking on text editors, not porting things to Rust, pretending to be a unix trendy hipster by checking in my dotfiles
 - Tools of the trade:
-  * Emacs
-  * [Gomacs](https://github.com/japanoise/gomacs) or [emsys](https://github.com/japanoise/emsys)
-  * zsh, the better shell
-  * [My personal configurations](https://github.com/japanoise/neo-dotfiles)
-  * Ubuntu
-  * msys2
+  * [GNU Emacs](https://www.gnu.org/software/emacs/), the world's best text editor
+  * [Gomacs](https://github.com/japanoise/gomacs) or [emsys](https://github.com/japanoise/emsys), not the world's best text editor but good enough to replace the editor of the beast
+  * [zsh](https://en.wikipedia.org/wiki/Z_shell), the better shell (yes it's better than fish, no I will not elaborate)
+  * [My personal configurations](https://github.com/japanoise/neo-dotfiles), a wretched hive of scum and villainy
+  * [btw linux](https://archlinux.org/)
+  * [msys2](https://www.msys2.org/) (when I'm forced to use windoze)
+  * [iterm2](https://iterm2.com/) and a stiff drink (when I'm forced to use ~~Mac OS~~ ~~OSX~~ MacOS)
 - Work status: employed as a software developer
 - Contact me if:
   * You are interested in speaking to me about an employment opportunity
